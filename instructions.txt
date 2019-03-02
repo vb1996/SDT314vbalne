@@ -1,4 +1,4 @@
-Congratulations, you have succesfully cloned the exercise repository!
+Congratulations, you have succesfully cloned the exercise repository! You are awesome!
 
 To complete the exercise, please follow the instructions.
 
