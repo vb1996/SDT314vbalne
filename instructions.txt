@@ -1,8 +1,11 @@
-Congratulations, you have succesfully cloned the exercise repository! You are awesome!
+Congratulations, you have succesfully cloned the exercise repository! You are awesome in this file
+!
 
 To complete the exercise, please follow the instructions.
 
+
 1. Open the report file. You will use it to track your progress.
+
 
 2. Enter the names of your team members in section 1 of the report.  Once done, add your file to the staging area ('git add'), and then do a git status.
 
